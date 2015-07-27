@@ -23,5 +23,5 @@ github 图片链接格式：
 例如：我在我的 gitFirstStudy 文件夹下一个 imageTest 目录，在该目录里有一个 test.gif 截图。那么添加链接的方式如下
 
 ```
-![gifImage](https://github.com/#fengyang0329/gitFirstStudy/raw/master/#imageTest/test.gif)
+![gifImage](https://github.com/#fengyang0329/gitFirstStudy/raw/master/imageTest/test.gif)
 ```
