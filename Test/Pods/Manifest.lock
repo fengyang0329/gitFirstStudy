@@ -1,0 +1,36 @@
+PODS:
+  - ASIHTTPRequest (1.8.2):
+    - ASIHTTPRequest/ASIWebPageRequest (= 1.8.2)
+    - ASIHTTPRequest/CloudFiles (= 1.8.2)
+    - ASIHTTPRequest/Core (= 1.8.2)
+    - ASIHTTPRequest/S3 (= 1.8.2)
+  - ASIHTTPRequest/ASIWebPageRequest (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/CloudFiles (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/Core (1.8.2):
+    - Reachability
+  - ASIHTTPRequest/S3 (1.8.2):
+    - ASIHTTPRequest/Core
+  - Reachability (3.2)
+  - XCAsyncTestCase (0.0.1)
+
+DEPENDENCIES:
+  - ASIHTTPRequest (~> 1.8.2)
+  - XCAsyncTestCase (from `https://github.com/fengyang0329/XCAsyncTestCase.git`)
+
+EXTERNAL SOURCES:
+  XCAsyncTestCase:
+    :git: https://github.com/fengyang0329/XCAsyncTestCase.git
+
+CHECKOUT OPTIONS:
+  XCAsyncTestCase:
+    :commit: 4d2109a8cde39adbef890042470338a683bec5a8
+    :git: https://github.com/fengyang0329/XCAsyncTestCase.git
+
+SPEC CHECKSUMS:
+  ASIHTTPRequest: ec013992946676b7978dcbde6396d57312d21db4
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  XCAsyncTestCase: ac542ef891b766f1bf184d0bfd30b41506cd52a8
+
+COCOAPODS: 0.37.2
